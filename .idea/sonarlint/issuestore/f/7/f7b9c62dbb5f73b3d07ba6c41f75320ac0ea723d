@@ -1,0 +1,101 @@
+
+p
+java:S1450="ZRemove the "filterByAge" field and declare it as a local variable in the relevant methods.(ğÔ›Ô
+w
+java:S1450?"\Remove the "deletePatient" field and declare it as a local variable in the relevant methods.(¨Œö™øÿÿÿÿ
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æğ¸æıÿÿÿÿ
+>
+java:S1604…"(Make this anonymous inner class a lambda(´•²,
+t
+java:S1450F"YRemove the "scrollPane" field and declare it as a local variable in the relevant methods.(õŸ›‚ÿÿÿÿÿ
+|
+java:S1149½"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œıìç
+o
+java:S1450<"TRemove the "dash1" field and declare it as a local variable in the relevant methods.(ı“Ü›üÿÿÿÿ
+p
+java:S14509"URemove the "slash2" field and declare it as a local variable in the relevant methods.(¤Øõüÿÿÿÿ
+g	java:S117ª"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÕë¨
+?
+java:S2387"*"title" is the name of a field in "Frame".(Éº~
+p
+java:S2293½"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œıìç
+D
+java:S1604“"(Make this anonymous inner class a lambda(É×ŒÑúÿÿÿÿ
+l	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÜ„Áùÿÿÿÿ
+o
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğö˜ò
+g	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì•ûğ
+n
+java:S1450'"SRemove the "back" field and declare it as a local variable in the relevant methods.(óıÔâøÿÿÿÿ
+o
+java:S2293b"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ôıç
+k
+java:S14507"URemove the "slash1" field and declare it as a local variable in the relevant methods.(Éä³
+p
+java:S2293Ì"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+{
+java:S1450,"eRemove the "filterByCronicalIllnes" field and declare it as a local variable in the relevant methods.(”ÁÉœ
+
+java:S1149Ê"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æÕ­Ÿúÿÿÿÿ
+w
+java:S14501"aRemove the "filterByTestResult" field and declare it as a local variable in the relevant methods.(µü…±
+x
+java:S1450""]Remove the "filterByGender" field and declare it as a local variable in the relevant methods.(ĞİÔ¨ÿÿÿÿÿ
+o
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨£µ
+q
+java:S1450"[Remove the "filterByName" field and declare it as a local variable in the relevant methods.(µí¤À
+|
+java:S1149Ì"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ×Ù…
+{
+java:S1450>"`Remove the "filterByBloodType" field and declare it as a local variable in the relevant methods.(üÒÖ¦ÿÿÿÿÿ
+D
+java:S1604£"(Make this anonymous inner class a lambda(­œœÖüÿÿÿÿ
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã‹§´ûÿÿÿÿ
+d
+java:S1192Å"MDefine a constant instead of duplicating this literal " INTERSECT " 18 times.(ì‰
+u
+java:S1450&"ZRemove the "showResults" field and declare it as a local variable in the relevant methods.(åıÒÑúÿÿÿÿ
+q
+java:S1450;"[Remove the "filterByCity" field and declare it as a local variable in the relevant methods.(§Æ¾õ
+;
+java:S1948"%Make "app" transient or serializable.(ãÔì¥
+d
+java:S3252O"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ï¯İ£
+g	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑòÜ€
+o
+java:S1450"ZRemove the "contentPane" field and declare it as a local variable in the relevant methods.(Ä¯_
+z
+java:S14506"_Remove the "filterByHospital" field and declare it as a local variable in the relevant methods.(ÂÎÅíûÿÿÿÿ
+v
+java:S1450#"[Remove the "filterByTckn" field and declare it as a local variable in the relevant methods.(Ğí®ûøÿÿÿÿ
+|
+java:S14502"aRemove the "filterByDoctorName" field and declare it as a local variable in the relevant methods.(Ù®Üóÿÿÿÿÿ
+E
+java:S1905¥")Remove this unnecessary cast to "String".(¿Š§…úÿÿÿÿ
+i
+java:S1450"TRemove the "title" field and declare it as a local variable in the relevant methods.(Éº~
+D
+java:S1604"(Make this anonymous inner class a lambda(Ò¦Ìñúÿÿÿÿ
+
+java:S1450/"fRemove the "filterByExaminationDate" field and declare it as a local variable in the relevant methods.(ËÄ‘˜ÿÿÿÿÿ
+n
+java:S3776¿"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(³Ë¦§úÿÿÿÿ
+t
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶…†Íúÿÿÿÿ
+s
+java:S14504"]Remove the "filterByStatus" field and declare it as a local variable in the relevant methods.(¸¤‹Ø
+w
+java:S1450+"\Remove the "updatePatient" field and declare it as a local variable in the relevant methods.(Ä‰‡úÿÿÿÿ
+u
+java:S2293Ê"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÕ­Ÿúÿÿÿÿ
+@
+java:S1905©")Remove this unnecessary cast to "String".(ƒ×Ù…
+r
+java:S1450@"\Remove the "createPatient" field and declare it as a local variable in the relevant methods.(¤çÒØ
+l	java:S117¥"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Š§…úÿÿÿÿ
+D
+java:S1604Œ"(Make this anonymous inner class a lambda(’†è”øÿÿÿÿ

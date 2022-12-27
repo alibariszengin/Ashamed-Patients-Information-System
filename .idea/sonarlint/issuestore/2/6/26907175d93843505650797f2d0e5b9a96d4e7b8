@@ -1,0 +1,27 @@
+
+q
+java:S1192S"VDefine a constant instead of duplicating this literal "Ä°ÅŸlem baÅŸarÄ±sÄ±z!" 5 times.(óš¶ãúÿÿÿÿ
+>
+java:S1604M"(Make this anonymous inner class a lambda(©‹Ïî
+>
+java:S1604X"(Make this anonymous inner class a lambda(³¤œë
+=
+java:S1604c"(Make this anonymous inner class a lambda(ğÿÆ\
+C
+java:S1604n"(Make this anonymous inner class a lambda(ÉÍ­ùÿÿÿÿ
+>
+java:S1604y"(Make this anonymous inner class a lambda(©ÁÃ·
+p
+java:S1450"URemove the "cities" field and declare it as a local variable in the relevant methods.(ÜËš şÿÿÿÿ
+l
+java:S1450"VRemove the "doctors" field and declare it as a local variable in the relevant methods.(¨ù“‰
+v
+java:S1450"[Remove the "examinations" field and declare it as a local variable in the relevant methods.(úûäóüÿÿÿÿ
+s
+java:S1450"XRemove the "hospitals" field and declare it as a local variable in the relevant methods.(ßÔÊ³ùÿÿÿÿ
+r
+java:S1450"WRemove the "patients" field and declare it as a local variable in the relevant methods.(Ì—öÂøÿÿÿÿ
+i
+java:S1450"TRemove the "title" field and declare it as a local variable in the relevant methods.(Éº~
+_
+java:S3252."IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´

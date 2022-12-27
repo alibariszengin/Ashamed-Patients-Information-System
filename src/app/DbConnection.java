@@ -12,12 +12,12 @@ import javax.swing.JOptionPane;
 import org.postgresql.util.PSQLException;
 
 public class DbConnection {
-	static String url = "jdbc:postgresql://localhost:5432/covid19-patients";
+	static String url = "jdbc:postgresql://localhost:5432/postgres";
 	static Connection conn;
 
 	static void connect() {
 		try {
-			conn = DriverManager.getConnection(url, "postgres", "0852");
+			conn = DriverManager.getConnection(url, "postgres", "1357911");
 		} catch (SQLException e) {
 			JOptionPane.showMessageDialog(null, "İşlem başarısız!", "Hata", JOptionPane.ERROR_MESSAGE);
 		}

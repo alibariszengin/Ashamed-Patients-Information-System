@@ -1,0 +1,29 @@
+
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(ïşÚ£
+k	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æš²Óûÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ğ·–
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ø½ò
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚªûÓùÿÿÿÿ
+f	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙŒ·{
+>
+java:S1604q"(Make this anonymous inner class a lambda(ûáÙÔ
+o
+java:S1450"ZRemove the "contentPane" field and declare it as a local variable in the relevant methods.(Ä¯_
+x
+java:S1450"]Remove the "firstNameLabel" field and declare it as a local variable in the relevant methods.(ö¡Ù‰ùÿÿÿÿ
+w
+java:S1450"\Remove the "hospitalLabel" field and declare it as a local variable in the relevant methods.(ñ‰¹Şûÿÿÿÿ
+q
+java:S1450"\Remove the "lastNameLabel" field and declare it as a local variable in the relevant methods.(…Ó½X
+r
+java:S1450"WRemove the "ssnLabel" field and declare it as a local variable in the relevant methods.(«°Ÿšúÿÿÿÿ
+p
+java:S1450 "URemove the "submit" field and declare it as a local variable in the relevant methods.(«½Ù±ûÿÿÿÿ
+i
+java:S1450"TRemove the "title" field and declare it as a local variable in the relevant methods.(Éº~
+?
+java:S2387"*"title" is the name of a field in "Frame".(Éº~
+t
+java:S2293@"YReplace the type specification in this constructor call with the diamond operator ("<>").(…·¶Õøÿÿÿÿ
+M
+java:S1135v"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ

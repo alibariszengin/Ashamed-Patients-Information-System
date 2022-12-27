@@ -48,8 +48,8 @@ public class AppWindow {
 		frame.setResizable(false);
 
 		// Create components
-		title = new JLabel("COVID-19 HASTALARI B�LG� S�STEM�");
-		cities = new JButton("�ehir Bilgileri");
+		title = new JLabel("COVID-19 HASTALARI BILGI SISTEMI");
+		cities = new JButton("Sehir Bilgileri");
 		hospitals = new JButton("Hastane Bilgileri");
 		doctors = new JButton("Doktor Bilgileri");
 		patients = new JButton("Hasta Bilgileri");

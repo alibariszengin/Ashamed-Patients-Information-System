@@ -1,0 +1,113 @@
+
+?
+java:S1905{")Remove this unnecessary cast to "String".(¯Ëôº
+q
+java:S1450"[Remove the "filterByName" field and declare it as a local variable in the relevant methods.(µí¤À
+?
+java:S1905~")Remove this unnecessary cast to "String".(Èûñ
+E
+java:S1905€")Remove this unnecessary cast to "String".(”“Ş£ûÿÿÿÿ
+z
+java:S14506"_Remove the "filterByHospital" field and declare it as a local variable in the relevant methods.(ÂÎÅíûÿÿÿÿ
+f	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Èûñ
+{
+java:S1450,"eRemove the "filterByCronicalIllnes" field and declare it as a local variable in the relevant methods.(”ÁÉœ
+q
+java:S1450;"[Remove the "filterByCity" field and declare it as a local variable in the relevant methods.(§Æ¾õ
+{
+java:S1450?"`Remove the "deleteExamination" field and declare it as a local variable in the relevant methods.(ø‹Ñùÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”“Ş£ûÿÿÿÿ
+s
+java:S14504"]Remove the "filterByStatus" field and declare it as a local variable in the relevant methods.(¸¤‹Ø
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó˜íüùÿÿÿÿ
+{
+java:S1450@"`Remove the "createExamination" field and declare it as a local variable in the relevant methods.(ûŠîıÿÿÿÿ
+w
+java:S14501"aRemove the "filterByTestResult" field and declare it as a local variable in the relevant methods.(µü…±
+
+java:S1149Í"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(æÕ­Ÿúÿÿÿÿ
+C
+java:S1604y"(Make this anonymous inner class a lambda(Œ¡çÛıÿÿÿÿ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(Éôÿşÿÿÿÿ
+u
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶…†Íúÿÿÿÿ
+F
+java:S3740”"/Provide the parametrized type for this generic.(Ñ´¾¦
+E
+java:S1905„")Remove this unnecessary cast to "String".(¦ççğüÿÿÿÿ
+o
+java:S1450<"TRemove the "dash1" field and declare it as a local variable in the relevant methods.(ı“Ü›üÿÿÿÿ
+C
+java:S1604a"(Make this anonymous inner class a lambda(É×ŒÑúÿÿÿÿ
+d
+java:S3252O"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ
+u
+java:S1450&"ZRemove the "showResults" field and declare it as a local variable in the relevant methods.(åıÒÑúÿÿÿÿ
+{
+java:S1450>"`Remove the "filterByBloodType" field and declare it as a local variable in the relevant methods.(üÒÖ¦ÿÿÿÿÿ
+f	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ“Á³
+v
+java:S1450+"`Remove the "updateExamination" field and declare it as a local variable in the relevant methods.(òËå
+;
+java:S1948"%Make "app" transient or serializable.(ãÔì¥
+?
+java:S1905|")Remove this unnecessary cast to "String".(Æ“Á³
+?
+java:S2387"*"title" is the name of a field in "Frame".(Éº~
+C
+java:S1604q"(Make this anonymous inner class a lambda(İòÂÇşÿÿÿÿ
+n
+java:S1450'"SRemove the "back" field and declare it as a local variable in the relevant methods.(óıÔâøÿÿÿÿ
+|
+java:S1149Ï"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(©œÕ¤
+v
+java:S1450#"[Remove the "filterByTckn" field and declare it as a local variable in the relevant methods.(Ğí®ûøÿÿÿÿ
+k
+java:S14507"URemove the "slash1" field and declare it as a local variable in the relevant methods.(Éä³
+|
+java:S1149Â"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Œıìç
+u
+java:S2293Í"YReplace the type specification in this constructor call with the diamond operator ("<>").(æÕ­Ÿúÿÿÿÿ
+p
+java:S2293Ï"YReplace the type specification in this constructor call with the diamond operator ("<>").(©œÕ¤
+o
+java:S1450"ZRemove the "contentPane" field and declare it as a local variable in the relevant methods.(Ä¯_
+k	java:S117}"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éÅ¯¢şÿÿÿÿ
+p
+java:S1450="ZRemove the "filterByAge" field and declare it as a local variable in the relevant methods.(ğÔ›Ô
+I
+java:S1481}".Remove this unused "test_date" local variable.(éÅ¯¢şÿÿÿÿ
+>
+java:S1604¥"(Make this anonymous inner class a lambda(´•²,
+u
+java:S2293œ"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æğ¸æıÿÿÿÿ
+|
+java:S14502"aRemove the "filterByDoctorName" field and declare it as a local variable in the relevant methods.(Ù®Üóÿÿÿÿÿ
+X
+java:S1854}"=Remove this useless assignment to local variable "test_date".(éÅ¯¢şÿÿÿÿ
+D
+java:S1905}")Remove this unnecessary cast to "String".(éÅ¯¢şÿÿÿÿ
+d
+java:S5361Á"HReplace this call to "replaceAll()" by a call to the "replace()" method.(Ã‰òÖşÿÿÿÿ
+f	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ëôº
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨£µ
+p
+java:S2293Â"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œıìç
+o
+java:S2293j"YReplace the type specification in this constructor call with the diamond operator ("<>").(„Ôıç
+x
+java:S1450""]Remove the "filterByGender" field and declare it as a local variable in the relevant methods.(ĞİÔ¨ÿÿÿÿÿ
+p
+java:S14509"URemove the "slash2" field and declare it as a local variable in the relevant methods.(¤Øõüÿÿÿÿ
+d
+java:S1192Ô"MDefine a constant instead of duplicating this literal " INTERSECT " 17 times.(ì‰
+i
+java:S1450"TRemove the "title" field and declare it as a local variable in the relevant methods.(Éº~
+
+java:S1450/"fRemove the "filterByExaminationDate" field and declare it as a local variable in the relevant methods.(ËÄ‘˜ÿÿÿÿÿ
+D
+java:S1604­"(Make this anonymous inner class a lambda(Âó°ÿÿÿÿÿ
+n
+java:S3776Í"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(²­°½üÿÿÿÿ
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(Šğš8¼çºçÓ0

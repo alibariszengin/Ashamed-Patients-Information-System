@@ -99,7 +99,7 @@ public class ExaminationsWindow extends JFrame {
 				try {
 					printTable();
 				} catch (Exception e1) {
-					JOptionPane.showMessageDialog(null, "Sorgu başarısız!", "Hata", JOptionPane.ERROR_MESSAGE);
+					JOptionPane.showMessageDialog(null, "Sorgu başarısız! "+e1.getMessage(), "Hata", JOptionPane.ERROR_MESSAGE);
 				}
 			}
 		});
@@ -310,6 +310,7 @@ public class ExaminationsWindow extends JFrame {
 		DbConnection.connect();
 
 		String query = generateQuery();
+		System.out.println(query);
 		ResultSet rs = DbConnection.select(query);
 		try {
 			table.setModel(buildTableModel(rs));

@@ -91,7 +91,7 @@ public class DoctorsWindow extends JFrame {
 		sortBy.addItem("Soyada gore sirala");
 		table = new JTable();
 		createDoctor = new JButton("Doktor ekle");
-		updateDoctor = new JButton("Doktor bilgilerini g�ncelle");
+		updateDoctor = new JButton("Doktor bilgilerini guncelle");
 		deleteDoctor = new JButton("Doktoru sil");
 		scrollPane = new JScrollPane(table);
 
@@ -189,7 +189,7 @@ public class DoctorsWindow extends JFrame {
 				String ssn_pkey = (String) table.getModel().getValueAt(table.getSelectedRow(), 0);
 				String first_name = (String) table.getModel().getValueAt(table.getSelectedRow(), 1);
 				String last_name = (String) table.getModel().getValueAt(table.getSelectedRow(), 2);
-				String hospital_name = (String) table.getModel().getValueAt(table.getSelectedRow(), 3);
+				String hospital_name = (String) table.getModel().getValueAt(table.getSelectedRow(), 3).toString();
 
 				try {
 					UpdateDoctorWindow frame = new UpdateDoctorWindow(ssn_pkey, first_name, last_name, hospital_name);

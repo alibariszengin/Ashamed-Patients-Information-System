@@ -21,7 +21,7 @@ import javax.swing.JButton;
 import javax.swing.JTable;
 
 @SuppressWarnings("serial")
-public class CitiesWindow extends JFrame {
+public class "CitiesWindow extends JFrame {
 
 	private AppWindow app;
 	private JPanel contentPane;
